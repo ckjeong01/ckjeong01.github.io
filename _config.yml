@@ -6,7 +6,7 @@ title: Tay Jeong # the website title (if blank, full name will be used instead)
 first_name: Tay
 middle_name: 
 last_name: Jeong
-email: tayjeong@gmail.com
+email: tay.jeong@mail.mcgill.ca
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Academic homepage. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
