@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # more_info: >
-  #   <p>555 your office number</p>
+  more_info: >
+    <p>tay.jeong@mail.mcgill.ca</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
@@ -18,12 +18,8 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a sociologist by training with a broad-based research experience in the social and human sciences. I studied history and political economy at the master’s level before joining McGill’s department of sociology for my terminal degree. Throughout my postsecondary studies, I have often pursued a problem-based approach to learning, which gave me a transdisciplinary research interest and profile. I enjoy thinking about social problems, and my wish is to pursue an academic profession with the mindset of an amateur (not easy!)  
 
-Curiosity about the world and knowledge
+I am committed to recent movements across the social and behavioral sciences to increase scientific transparency and combat the replication crisis. In 2022, I started to preregister confirmatory research using the standard template of the Open Science Foundation (OSF). I have also fully disclosed complete replication data and software code for all first-authored quantitative research papers unless prohibited by law or contract.  
 
-My first journey, driven by curiosity about the world, was learning languages. Before entering college, I learned several foreign languages, including English, German, French, and Japanese, by imagining the scenery and people's lives of strange countries at home. After college, my long-term “living” away from home in Hong Kong, Zurich, Fukuoka, London, and Montreal was my second journey driven by curiosity about the world.
-
-Intellectual exploration was my journey in another dimension. I studied economics and finance, development studies, history, philosophy, and sociology in many places around the world. It is only after you have studied a lot in a field that you finally understand what it is.
-In my long journey in the world and knowledge, I had to overcome many difficulties. Even now, research is still difficult, but there is so much research I want to do. These days, after completing my doctoral program, I am enjoying intellectual adventures to the fullest in my personal laboratory.
-
-I welcome feedback or comments on my published papers. All my first-authored publications already contain full replication material (in case data-sharing is prohibited, I provide instructions on how to obtain them).
+Before entering my Ph.D. program, I worked at the United Nations Human Settlement Program (UN-HABITAT) and as a freelance academic translator. I was born in Korea but lived in several other countries including Canada, the US, Switzerland, Hong Kong, England, and Japan. I am a moderate polyglot, with a certified fluency in Japanese, French, and German and a working knowledge of Mandarin besides native or equivalent proficiency in Korean and English.  
