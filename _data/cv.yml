@@ -1,32 +1,108 @@
+# - title: General Information
+#   type: map
+#   contents:
+#     - name:  
+#       value: Tay Jeong
+#     - name: Year of Birth
+#       value: 1991
+#     - name: Languages
+#       value: English, Korean, Japanese, French, German
+
 - title: General Information
-  type: map
+  type: list
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - <h4><B>Tay Jeong</B></h4>
+    - A sociologist with a broad-based research experience in the social and human sciences, pursuing an academic profession with the mindset of an amateur.
+    - Research areas - Sociology of Knowledge, Historical Sociology, Sociological Research Methods, Social Determinants of Mental Health.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD, Sociology
+      institution: McGill University, Montreal, Canada
+      year: 2018-2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - GPA - 3.95 out of 4.0
+        - Doctoral advisor - Prof. Eran Shor
+        - title: Ara Exams
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - 1.	Sociology of Knowledge (committee chair Prof. Peter McMahan)
+            - 2.	Political Sociology (committee chair Prof. Barry Eidlin). The exam committee wrote in the decision letter that it tried to award a formal “distinction” but could not since the system only allows pass/fail. It suggested that I write this in my CV.
+    - title: MA, History
+      institution: McGill University, Montreal, Canada
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - Focus areas - Historiography and Nationalism
+        - GPA 3.83 out of 4.0
+    - title: MSc, Political Economy of Late Development
+      institution: London School of Economics and Political Science, London, UK
+      year: 2015
+      description:
+        - Focus areas - International Political Economy, Colonialism and Development
+        - Degree classification - Distinction
+    - title: BA, Economics and Finance
+      institution: University of Hong Kong
+      year: 2010-2013
+    - title: Study abroad program
+      institution: Universität Zürich, Switzerland
+      year: 2011-2012
+      description:
+        - One-year visiting study (In German)
+        - GPA 4.9 out of 6.0
+    - title: Study abroad program
+      institution: École normale Supérieure à Paris, France
+      year: 2011
+      description:
+        - Un été à l'ENS (In French)
+    - title: Uncompleted degree program (MSc)
+      institution: University of Edinburgh, UK
+      year: 2010-2021
+      description:
+        - MSc, Epistemology Ethics and Mind (Online)
+
+- title: Scholarships, Awards, and Nominations
+  type: time_table
+  contents:
+    - title: Graduate Research Awards for Disarmament, Arms Control, and Non-Proliferation
+      year: 2023
+      description:
+        - jointly offered by Global Affairs Canada (GAC) and Simons Foundation Canada
+        - In the award ceremony, I gave a 30-minute presentation to high-profile Canadian diplomats at the GAC headquarters in Ottawa about current Canadian policy on global arms control and disarmament.
+        - C$5,000
+
+    - title: McGill University nominee for the 2023 Social Sciences and Humanities Research Council of Canada (SSHRC) Talent Award, a C$50,000 award annually given to one doctoral or postdoctoral researcher in the humanities and social sciences.
+      year: 2023
+
+    - title: Graduate student anti-black racism research award, McGill University
+      year: 2022
+      description:
+        - I received this award in recognition of my theoretical contributions to the benefits of minority inclusion (article forthcoming in Hypatia) and my plans to apply my theory to the problem of the underrepresentation of people of African heritage in academia.
+        - C$2,000
+
+    - title: Everett C. Hughes Research Graduate Award, McGill University department of sociology
+      year: 2022
+      description:
+        - Annually given to the student with the best research record in the department
+        - C$100
+
+    - title: Graduate Excellence Award, McGill University
+      year: 2021
+      description:
+        - C$1,000
+
+    - title: Graduate Award Program, McGill Institute of Health and Social Policy
+      year: 2020
+      description:
+        - two-semester training program offering hands-on-experience for communicating the results of graduate students’ health research to policymakers
+        - C$4,000
+
+    - title: Joseph-Armand-Bombardier Canada Graduate Scholarship
+      year: 2020
+      description:
+        - two-semester training program offering hands-on-experience for communicating the results of graduate students’ health research to policymakers
+        - C$105,000 (disbursed over three years)
+
+
 
 - title: Experience
   type: time_table
@@ -90,6 +166,11 @@
       items:
         - Description 1.
         - Description 2.
+
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
 
 - title: Other Interests
   type: list
