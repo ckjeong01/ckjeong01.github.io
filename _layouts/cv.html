@@ -25,6 +25,8 @@ layout: default
             {% include cv/nested_list.html %}
           {% elsif entry.type == "time_table" %}
             {% include cv/time_table.html %}
+          {% elsif entry.type == "table2" %}
+            {% include cv/table2.html %}
           {% elsif entry.type == "list_groups" %}
             {% include cv/list_groups.html %}
           {% else %}

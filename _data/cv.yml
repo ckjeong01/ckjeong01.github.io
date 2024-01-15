@@ -8,10 +8,9 @@
 #     - name: Languages
 #       value: English, Korean, Japanese, French, German
 
-- title: General Information
+- title: <B>Tay Jeong</B>
   type: list
   contents:
-    - <h4><B>Tay Jeong</B></h4>
     - A sociologist with a broad-based research experience in the social and human sciences, pursuing an academic profession with the mindset of an amateur.
     - Research areas - Sociology of Knowledge, Historical Sociology, Sociological Research Methods, Social Determinants of Mental Health.
 
@@ -24,10 +23,8 @@
       description:
         - GPA - 3.95 out of 4.0
         - Doctoral advisor - Prof. Eran Shor
-        - title: Ara Exams
-          contents:
-            - 1.	Sociology of Knowledge (committee chair Prof. Peter McMahan)
-            - 2.	Political Sociology (committee chair Prof. Barry Eidlin). The exam committee wrote in the decision letter that it tried to award a formal “distinction” but could not since the system only allows pass/fail. It suggested that I write this in my CV.
+        - Ara Exam 1 - Sociology of Knowledge (committee chair Prof. Peter McMahan)
+        - Ara Exam 2 - Political Sociology (committee chair Prof. Barry Eidlin). The exam committee wrote in the decision letter that it tried to award a formal “distinction” but could not since the system only allows pass/fail. It suggested that I write this in my CV.
     - title: MA, History
       institution: McGill University, Montreal, Canada
       year: 2016
@@ -101,6 +98,76 @@
       description:
         - two-semester training program offering hands-on-experience for communicating the results of graduate students’ health research to policymakers
         - C$105,000 (disbursed over three years)
+
+    - title: Fonds de Recherche du Québec (FRQ) doctoral scholarship
+      year: 2019
+      description:
+        - C$21,000 per annum (discontinued after one year due to receipt of Canada Graduate Scholarship)
+
+    - title: Graduate Excellence Award, McGill University
+      year: 2019
+      description:
+        - C$1,500
+
+    - title: McCall MacBain Scholarship
+      year: 2018
+      description:
+        - C$6,500
+
+    - title: Graduate Excellence Award, McGill University
+      year: 2018
+      description:
+        - C$441
+
+    - title: Sociology Graduate Award, McGill University
+      year: 2018
+      description:
+        - C$325
+
+    - title: Merit-based entrance scholarship, University of Hong Kong
+      year: 2010-2013
+      description:
+        - HK$20,000 per annum for three years (received for two years due to one year of visiting study at the University of Zurich)
+
+- title: Research Methods
+  type: table2
+  contents:
+    - cat: Quantitative
+      subcontents:
+        - title: Research-level knowledge (relevant to my 2022 article in <i>Social Science and Medicine</i>)
+          description:
+            - Multilevel modeling - Choice of centering, Latent centering, Complex L1- and L2- variances, Non-nested models, Bayesian approaches
+            - Causal inference - DAGs, Contextual analysis, Causal mediation analysis, Instrumental variables
+
+        - title: Areas of applied-level proficiency, training, and experience
+          description:
+            - Network analysis
+            - Latent variable models - Factor analysis, SEM and MSEM, Growth curve models
+            - Panel regression
+            - Probing complex interaction effects
+
+        - title: Software skills
+          description:
+            - R and Mplus (main tools); Stata (secondary tool)
+    - cat: Historial
+      subcontents:
+        - title: Research-level knowledge (relevant to my 2022 article in <i>Social Science and Medicine</i>)
+          description:
+            - Multilevel modeling - Choice of centering, Latent centering, Complex L1- and L2- variances, Non-nested models, Bayesian approaches
+            - Causal inference - DAGs, Contextual analysis, Causal mediation analysis, Instrumental variables
+
+        - title: Areas of applied-level proficiency, training, and experience
+          description:
+            - Network analysis
+            - Latent variable models - Factor analysis, SEM and MSEM, Growth curve models
+            - Panel regression
+            - Probing complex interaction effects
+
+        - title: Software skills
+          description:
+            - R and Mplus (main tools); Stata (secondary tool)
+
+
 
 
 
