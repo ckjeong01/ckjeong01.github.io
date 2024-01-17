@@ -1,0 +1,12 @@
+<ul class="card-text font-weight-light list-group list-group-flush" style="margin-left: 50px;">
+  {% for content in entry.contents %}
+    <span>{{ content.title }}</span>
+    {% if content.items %}
+      <ul class="subitems">
+        {% for subitem in content.items %}
+          <li><span class="subitem">{{ subitem }}</span></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endfor %}
+</ul>
