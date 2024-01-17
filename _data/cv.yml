@@ -235,43 +235,18 @@
         - United Nations Human Settlements Programme (UN-HABITAT)
         - Regional Office for the Asia and the Pacific, Fukuoka, Japan
 
-
-- title: Open Source Projects
+- title: Standardized Test Results
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - title: GRE Revised
+      year: 2016
+      description:
+        - Verbal 169 out of 170
+        - Quant 170 out of 170
+        - Writing 4.5 out of 6.0
+    - title: GMAT
+      year: 2014
+      description:
+        - Quant & Verbal 750 out of 800 (98th percentile)
+        - Integrated Reasoning 8 out of 8
+        - Analytical Writing 6.0 out of 6.0
