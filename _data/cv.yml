@@ -169,23 +169,21 @@
 
 
 - title: Languages
-  type: languages
+  type: time_table
   contents:
     - title: English - Native equivalent
-      # items:
-      #   - IBT TOEFL score 120 out of 120
     - title: Korean - Native
     - title: French - Advanced
-      items:
+      description:
         - DALF C2 (highest among six levels)
     - title: German - Advanced
-      items:
+      description:
         - Grosses Deutsches Sprachdiplom C2 (highest among six levels)
     - title: Japanese - Advanced
-      items:
+      description:
         - JLPT N1 (highest among five levels)
     - title: Mandarin - Intermediate
-      items:
+      description:
         - HSK level 5 (second highest among six levels
     - title: Classical Chinese - Proficient reading
 
