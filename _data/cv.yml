@@ -10,9 +10,9 @@
 
 - title: <B>Tay Jeong</B>
   type: list
-  contents:
-    - A sociologist with a broad-based research experience in the social and human sciences, pursuing an academic profession with the mindset of an amateur.
-    - Research areas - Sociology of Knowledge, Historical Sociology, Sociological Research Methods, Social Determinants of Mental Health.
+  # contents:
+  #   - A sociologist with a broad-based research experience in the social and human sciences, pursuing an academic profession with the mindset of an amateur.
+  #   - Research areas - Sociology of Knowledge, Historical Sociology, Sociological Research Methods, Social Determinants of Mental Health.
 
 - title: Education
   type: time_table
@@ -53,7 +53,7 @@
         - Un été à l'ENS (In French)
     - title: Uncompleted degree program (MSc)
       institution: University of Edinburgh, UK
-      year: 2010-2021
+      year: 2020-2021
       description:
         - MSc, Epistemology Ethics and Mind (Online)
 
@@ -129,37 +129,37 @@
       description:
         - HK$20,000 per annum for three years (received for two years due to one year of visiting study at the University of Zurich)
 
-- title: Research Methods
-  type: time_table2
-  contents:
-    - group: Quantitative
-      contents:
-      - title: Research-level knowledge (relevant to my 2022 article in <i>Social Science and Medicine</i>)
-        description:
-          - Multilevel modeling - Choice of centering, Latent centering, Complex L1- and L2- variances, Non-nested models, Bayesian approaches
-          - Causal inference - DAGs, Contextual analysis, Causal mediation analysis, Instrumental variables
+# - title: Research Methods
+#   type: time_table2
+#   contents:
+#     - group: Quantitative
+#       contents:
+#       - title: Research-level knowledge (relevant to my 2022 article in <i>Social Science and Medicine</i>)
+#         description:
+#           - Multilevel modeling - Choice of centering, Latent centering, Complex L1- and L2- variances, Non-nested models, Bayesian approaches
+#           - Causal inference - DAGs, Contextual analysis, Causal mediation analysis, Instrumental variables
 
-      - title: Areas of applied-level proficiency, training, and experience
-        description:
-          - Network analysis
-          - Latent variable models - Factor analysis, SEM and MSEM, Growth curve models
-          - Panel regression
-          - Probing complex interaction effects
+#       - title: Areas of applied-level proficiency, training, and experience
+#         description:
+#           - Network analysis
+#           - Latent variable models - Factor analysis, SEM and MSEM, Growth curve models
+#           - Panel regression
+#           - Probing complex interaction effects
 
-      - title: Software skills
-        description:
-          - R and Mplus (main tools); Stata (secondary tool)
-    - group: Historial
-      contents:
-        - title: Research-level knowledge (relevant to my ongoing project undergoing R&R in <i>Sociological Methods and Researche</i>)
-          description:
-            - Comparative-historical methods
-            - Theory of singular causation
-            - Narrativist philosophy of history
+#       - title: Software skills
+#         description:
+#           - R and Mplus (main tools); Stata (secondary tool)
+#     - group: Historial
+#       contents:
+#         - title: Research-level knowledge (relevant to my ongoing project undergoing R&R in <i>Sociological Methods and Researche</i>)
+#           description:
+#             - Comparative-historical methods
+#             - Theory of singular causation
+#             - Narrativist philosophy of history
 
-        - title: Areas of applied-level proficiency, training, and experience
-          description:
-            - Archival methods
+#         - title: Areas of applied-level proficiency, training, and experience
+#           description:
+#             - Archival methods
 
 
 - title: Languages
