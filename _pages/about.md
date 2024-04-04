@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD, McGill University, 2023 (Sociology)
+subtitle: Social Sciences and Humanities Research Council of Canada (SSHRC) Postdoctoral Fellow at Kangwon National University / PhD, McGill University, 2023 (Sociology)
 
 profile:
   align: right

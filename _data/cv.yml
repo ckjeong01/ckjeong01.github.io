@@ -10,9 +10,11 @@
 
 - title: <B>Tay Jeong</B>
   type: list
-  # contents:
-  #   - A sociologist with a broad-based research experience in the social and human sciences, pursuing an academic profession with the mindset of an amateur.
-  #   - Research areas - Sociology of Knowledge, Historical Sociology, Sociological Research Methods, Social Determinants of Mental Health.
+  contents:
+    - Social Sciences and Humanities Research Council of Canada (SSHRC) Postdoctoral Fellow at Kangwon National University (2024.05 – up to 2026.04)
+    - Ph.D. Sociology, McGill University (2018.09 – 2023.10)
+    - Prior master’s degrees in political economy (LSE) and history (McGill)
+    - Research areas - International and Interethnic Conflict; Mental Health; Social Philosophy; Research Methods
 
 - title: Education
   type: time_table
