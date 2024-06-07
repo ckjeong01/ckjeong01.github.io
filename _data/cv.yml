@@ -62,6 +62,12 @@
 - title: Scholarships, Awards, and Nominations
   type: time_table
   contents:
+    - title: Social Sciences and Humanities Research Council of Canada (SSHRC) postdoctoral fellowship
+      year: 2024
+      description:
+        - C$140,000 (disbursed over two years)
+
+  contents:
     - title: Graduate Research Awards for Disarmament, Arms Control, and Non-Proliferation
       year: 2023
       description:
@@ -98,7 +104,6 @@
     - title: Joseph-Armand-Bombardier Canada Graduate Scholarship
       year: 2020
       description:
-        - two-semester training program offering hands-on-experience for communicating the results of graduate students’ health research to policymakers
         - C$105,000 (disbursed over three years)
 
     - title: Fonds de Recherche du Québec (FRQ) doctoral scholarship
