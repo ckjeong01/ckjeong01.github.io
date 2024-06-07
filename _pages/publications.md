@@ -15,7 +15,7 @@ Last but not least, I have a fruitful secondary interest in the social determina
 
 Due to my multidisciplinary educational background, I am trained in and have used three broad types of research methods: Quantitative, historical, and philosophical. I have taken research methods very seriously throughout my graduate studies, resulting in methodological contributions to quantitative methods (in the domain of multilevel modeling and causal inference) and historical methods (counterfactual reasoning in history and comparative history).  
 
+<h3>Peer-reviewed publications</h3>
 <div class="publications">
 {% bibliography -f {{ site.scholar.bibliography }} %}
-
 </div>
