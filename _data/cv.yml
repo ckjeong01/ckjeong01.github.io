@@ -11,7 +11,8 @@
 - title: <B>Tay Jeong</B>
   type: list
   contents:
-    - Social Sciences and Humanities Research Council of Canada (SSHRC) Postdoctoral Fellow at Kangwon National University (2024.05 – up to 2026.04)
+    - Assistant Professor, Department of Sociology, Sungkyunkwan University (2025.03 - )
+    - Social Sciences and Humanities Research Council of Canada (SSHRC) Postdoctoral Fellow at Kangwon National University (2024.05 - up to 2026.04)
     - Ph.D. Sociology, McGill University (2018.09 – 2023.10)
     - Prior master’s degrees in political economy (LSE) and history (McGill)
     - Research areas - International and Interethnic Conflict; Mental Health; Social Philosophy; Research Methods
@@ -191,34 +192,10 @@
 - title: Teaching
   type: time_table
   contents:
-    - title: Course Instructor for SOCI211 Sociological Inquiry (summer)
+    - title: SOC2003 Political Sociology
+      year: 2025
+    - title: SOCI211 Sociological Inquiry (McGill University)
       year: 2021
-    - title: Teaching Assistant for SOCI325 Sociology of Science
-      year: 2020
-      description:
-        - Gave a guest lecture on feminist epistemology
-    - title: Teaching Assistant for SOCI254 Development and Underdevelopment
-      year: 2019
-    - title: Teaching Assistant for HIST218 Modern East Asian History
-      year: 2016
-      description:
-        - Gave a guest lecture on modern Korean history
-
-- title: Research assistant
-  type: time_table
-  contents:
-    - title: Research assistant in social determinants of health for Prof. Anthony Masi
-      year: 2020-2021
-      description:
-        - McGill University Department of Management
-    - title: Research assistant in sociological theory for Prof. Axel van den Berg
-      year: 2019-2022
-      description:
-        - McGill University Department of Sociology
-    - title: Research assistant in historical sociology for Prof. Matthew Lange
-      year: 2018-2023
-      description:
-        - McGill University Department of Sociology
 
 - title: Other Work Experience
   type: time_table
@@ -232,19 +209,3 @@
       description:
         - United Nations Human Settlements Programme (UN-HABITAT)
         - Regional Office for the Asia and the Pacific, Fukuoka, Japan
-
-- title: Standardized Test Results
-  type: time_table
-  contents:
-    - title: GRE Revised
-      year: 2016
-      description:
-        - Verbal 169 out of 170
-        - Quant 170 out of 170
-        - Writing 4.5 out of 6.0
-    - title: GMAT
-      year: 2014
-      description:
-        - Quant & Verbal 750 out of 800 (98th percentile)
-        - Integrated Reasoning 8 out of 8
-        - Analytical Writing 6.0 out of 6.0
