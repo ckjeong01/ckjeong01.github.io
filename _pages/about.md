@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, Department of Sociology, Sungkyunkwan University / PhD McGill University 2023 (Sociology)
+subtitle: Assistant Professor, Department of Sociology, Sungkyunkwan University<br>PhD McGill University 2023 (Sociology)
 
 profile:
   align: right
