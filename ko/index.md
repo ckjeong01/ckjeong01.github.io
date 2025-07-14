@@ -2,6 +2,7 @@
 layout: about
 lang: ko
 title: 정태의
+description: 정태의 교수 사회학 성균관 skku Sociology Sungkyunkwan Tay Jeong
 permalink: /ko/
 alt_lang_url: /en/
 subtitle: 성균관대학교 사회학과 조교수
