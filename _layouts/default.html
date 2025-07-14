@@ -1,12 +1,17 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang }}">
+<html lang="{{ page.lang | default: site.lang }}">
 
   <!-- Head -->
   <head>
-  {%- if page.redirect -%}
+    <meta charset="utf-8">
+
+    <link rel="alternate" hreflang="ko" href="https://tayjeong.com/ko/" />
+    <link rel="alternate" hreflang="en" href="https://tayjeong.com/en/" />
+  
+    {%- if page.redirect -%}
     <meta http-equiv="refresh" content="3; url={{ site.baseurl }}/" />
-  {%- endif -%}
-  {% include head.html %}
+    {%- endif -%}
+    {% include head.html %}
   </head>
 
   <!-- Body -->

@@ -1,0 +1,6 @@
+{%- assign current_lang = page.lang -%}
+{%- if current_lang == 'ko' -%}
+  <a class="nav-link" href="{{ page.alt_lang_url }}">ENGLISH</a>
+{%- else -%}
+  <a class="nav-link" href="{{ page.alt_lang_url }}">한국어</a>
+{%- endif -%}

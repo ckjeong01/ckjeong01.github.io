@@ -18,3 +18,58 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/solid",
   "font-awesome/regular"
 ;
+
+// 다크 모드 메뉴바 색상 설정
+[data-theme="dark"] .navbar {
+  background-color: #222 !important;  // 메뉴바 배경색 어둡게
+}
+
+[data-theme="dark"] .navbar-nav .nav-link {
+  color: #ffffff !important;          // 메뉴 항목 글자 흰색
+}
+
+[data-theme="dark"] .navbar-brand {
+  color: #ffffff !important;          // 사이트 타이틀 흰색
+}
+
+[data-theme="dark"] .navbar-toggler {
+  border-color: #ccc;               // 테두리 색
+}
+
+[data-theme="dark"] .navbar-toggler:focus,
+[data-theme="dark"] .navbar-toggler:hover {
+  background-color: #444;           // 호버 시 배경
+}
+
+// 다크 모드에서 햄버거 아이콘을 흰색으로 보이게
+[data-theme='dark'] .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3e%3cpath stroke='rgba(255, 255, 255, 0.9)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+/* 다크 모드용 햄버거 아이콘 반전 */
+@media (prefers-color-scheme: dark) {
+  .navbar-toggler-icon {
+    filter: invert(1);
+  }
+}
+
+[data-theme='dark'] .navbar-toggler-icon {
+  background-image: none !important;
+  background-color: transparent !important;
+  position: relative;
+  width: 1.5em;
+  height: 1.5em;
+}
+
+.navbar-toggler-icon .bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  margin: 5px auto;
+  background-color: #000;
+  transition: all 0.3s;
+}
+
+[data-theme='dark'] .navbar-toggler-icon .bar {
+  background-color: #fff !important;
+}

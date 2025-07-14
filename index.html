@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Redirecting...</title>
+    <script>
+      const lang = navigator.language || navigator.userLanguage;
+      const isKorean = lang.toLowerCase().startsWith("ko");
+      const destination = isKorean ? "/ko/" : "/en/";
+      window.location.replace(destination);
+    </script>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>

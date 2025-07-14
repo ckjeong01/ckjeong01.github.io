@@ -1,0 +1,6 @@
+// 햄버거 아이콘 색상 설정 (dark mode용)
+.navbar-toggler {
+  border-color: rgba(255, 255, 255, 0.3);  // 테두리
+  color: white !important;                // 햄버거 아이콘
+  fill: white !important;
+}

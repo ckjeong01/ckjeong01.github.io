@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /others/
+lang: en
+permalink: /en/others.html
+alt_lang_url: /ko/others.html
 title: Other writings
 description: Op-eds, analyses, and policy papers
 nav: true

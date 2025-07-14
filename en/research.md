@@ -1,6 +1,8 @@
 ---
 layout: page
-permalink: /research/
+lang: en
+permalink: /en/research.html
+alt_lang_url: /ko/research.html
 title: Research
 description: Peer-reviewed academic journal publications
 nav: true

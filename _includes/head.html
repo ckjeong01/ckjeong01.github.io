@@ -1,6 +1,9 @@
     <!-- Metadata, OpenGraph and Schema.org -->
     {% include metadata.html %}
 
+    <link rel="alternate" hreflang="en" href="{{ site.url }}/en{{ page.url | remove_first: '/en' }}">
+    <link rel="alternate" hreflang="ko" href="{{ site.url }}/ko{{ page.url | remove_first: '/ko' }}">
+
     <!-- Analytics tag -->
     {% include scripts/analytics.html %}
 
