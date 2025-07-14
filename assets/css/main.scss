@@ -19,6 +19,8 @@ $max-content-width: {{ site.max_width }};
   "font-awesome/regular"
 ;
 
+@import "custom";
+
 // 다크 모드 메뉴바 색상 설정
 [data-theme="dark"] .navbar {
   background-color: #222 !important;  // 메뉴바 배경색 어둡게
