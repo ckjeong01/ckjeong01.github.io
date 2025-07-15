@@ -1,6 +1,7 @@
 ---
 layout: page
 lang: en
+description: 정태의 교수 사회학 성균관 skku Sociology Sungkyunkwan Tay Jeong
 permalink: /en/research.html
 alt_lang_url: /ko/research.html
 title: Research

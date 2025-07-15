@@ -2,6 +2,7 @@
 layout: about
 lang: en
 title: Tay Jeong
+description: 정태의 교수 사회학 성균관 skku Sociology Sungkyunkwan Tay Jeong
 permalink: /en/
 alt_lang_url: /ko/
 subtitle: Assistant Professor, Department of Sociology, Sungkyunkwan University
