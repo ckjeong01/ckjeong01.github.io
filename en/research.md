@@ -9,7 +9,7 @@ description: Peer-reviewed academic journal publications
 nav: true
 nav_order: 2
 ---
-<!-- _pages/publications.md -->
+<!-- en/publications.md -->
 My primary domain of interest is international or interethnic conflict. My work on conflict includes both armed conflict and discursive conflict. My past academic research in this field was often historical, but my ongoing projects and professional services also deal with current affairs.  
 
 Relatedly, I like to study why different groups of people reason and feel differently and the resulting normative problems in epistemology and ethics.   
@@ -34,7 +34,7 @@ Due to my multidisciplinary educational background, I am trained in and have use
 </div>
 
 <h3>Works in progress</h3>
-<div class="publications">
-{% bibliography -f inprogress.bib %}
+<div class="publications-noyear">
+{% bibliography -f inprogress.bib -g none %}
 </div>
 
