@@ -33,6 +33,8 @@ Due to my multidisciplinary educational background, I am trained in and have use
 {% bibliography -f bookchapters.bib %}
 </div>
 
+<div style="height: 1em;"></div>
+
 <h3>Works in progress</h3>
 <div class="publications-noyear">
 {% bibliography -f inprogress.bib -g none %}
