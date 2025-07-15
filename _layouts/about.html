@@ -12,7 +12,17 @@ layout: default
       -->
             {{ page.title }}
           </h1>
-          <p class="desc">{{ page.subtitle | markdownify }}</p>
+          <!-- <p class="desc">{{ page.subtitle | markdownify }}</p> -->
+
+          <p class="desc">
+          {{ page.subtitle }}
+          {% if page.lang == "en" %}
+            <a href="https://soc.skku.edu/eng_soc/index.do" target="_blank" style="margin-left: 10px; font-size: 1.1em;" title="Faculty Page">🏠</a>
+          {% elsif page.lang == "ko" %}
+            <a href="https://soc.skku.edu/soc/index.do" target="_blank" style="margin-left: 10px; font-size: 1.1em;" title="교수 소개">🏠</a>
+          {% endif %}
+        </p>
+
         </header>
 
         <article>

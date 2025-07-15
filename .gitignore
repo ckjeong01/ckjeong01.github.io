@@ -7,5 +7,6 @@ _site
 .ruby-version
 .tweet-cache
 .Gimfile.lock
+docker-run.bat
 vendor
 
