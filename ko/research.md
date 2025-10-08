@@ -33,7 +33,7 @@ nav_order: 2
 {% bibliography -f bookchapters.bib %}
 </div>
 
-<!-->
+<!--
 <div style="height: 1em;"></div>
 <h3>Works in progress</h3>
 <div class="publications-noyear">
