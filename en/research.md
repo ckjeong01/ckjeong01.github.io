@@ -33,7 +33,7 @@ Due to my multidisciplinary educational background, I am trained in and have use
 {% bibliography -f bookchapters.bib %}
 </div>
 
-<!--
+
 {% comment %}
 <div style="height: 1em;"></div>
 <h3>Works in progress</h3>
@@ -41,4 +41,4 @@ Due to my multidisciplinary educational background, I am trained in and have use
 {% bibliography -f inprogress.bib -g none %}
 </div>
 {% endcomment %}
--->
+
