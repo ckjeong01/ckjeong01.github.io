@@ -33,6 +33,7 @@ nav_order: 2
 {% bibliography -f bookchapters.bib %}
 </div>
 
+{% comment %}
 <!--
 <div style="height: 1em;"></div>
 <h3>Works in progress</h3>
@@ -40,3 +41,4 @@ nav_order: 2
 {% bibliography -f inprogress.bib -g none %}
 </div>
 -->
+{% endcomment %}
