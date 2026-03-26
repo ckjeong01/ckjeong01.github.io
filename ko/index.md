@@ -9,7 +9,7 @@ subtitle: 성균관대학교 사회학과 조교수
 
 profile:
   align: right
-  image: TayJeong_20260321_0008_R1.jpg
+  image: TayJeong_20260321_0008_R2.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>tayjeong@skku.edu</p>
