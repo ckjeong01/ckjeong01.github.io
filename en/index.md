@@ -9,7 +9,7 @@ subtitle: Assistant Professor, Department of Sociology, Sungkyunkwan University
 
 profile:
   align: right
-  image: tay20250827_crop.png
+  image: TayJeong_20260321_0008_R1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>tayjeong@skku.edu</p>
