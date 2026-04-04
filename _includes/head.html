@@ -9,7 +9,7 @@
 
     
     <!-- Bootstrap & MDB -->
-    <link rel="stylesheet" href="{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
+    <link rel="stylesheet" href="{{ site.url }}{{ '/assets/css/bootstrap.min.css' | relative_url | bust_file_cache }}">
     <!-- <link rel="stylesheet" href="{{ '/assets/css/mdb.min.css' | relative_url | bust_file_cache }}"> -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/mdbootstrap@{{ site.mdb.version }}/css/mdb.min.css" integrity="{{ site.mdb.integrity.css }}" crossorigin="anonymous" />
 
@@ -17,15 +17,15 @@
     <link defer rel="stylesheet" href="https://unpkg.com/bootstrap-table@{{ site.bootstrap-table.version }}/dist/bootstrap-table.min.css">
 
     <!-- Fonts & Icons -->
-    <link rel="stylesheet" href="{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
+    <link rel="stylesheet" href="{{ site.url }}{{ '/assets/css/academicons.min.css' | relative_url | bust_file_cache }}">
     <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons">
 
     <!-- Code Syntax Highlighting -->
-    <link rel="stylesheet" href="{{ '/assets/css/jekyll-pygments-themes-github.css' | relative_url | bust_file_cache }}" media="" id="highlight_theme_light" />
+    <link rel="stylesheet" href="{{ site.url }}{{ '/assets/css/jekyll-pygments-themes-github.css' | relative_url | bust_file_cache }}" media="" id="highlight_theme_light" />
 
     {% if page.toc and page.toc.sidebar %}
     <!-- Sidebar Table of Contents -->
-    <link href="{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet" />
+    <link href="{{ site.url }}{{ '/assets/css/bootstrap-toc.min.css' | relative_url | bust_file_cache }}" rel="stylesheet" />
     {% endif %}
 
     {% if page.tikzjax %}
@@ -44,9 +44,9 @@
 
     <!-- Dark Mode -->
     {% if site.enable_darkmode %}
-    <link rel="stylesheet" href="{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}" media="none" id="highlight_theme_dark" />
-    <script src="{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
-    <script src="{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
+    <link rel="stylesheet" href="{{ site.url }}{{ '/assets/css/jekyll-pygments-themes-native.css' | relative_url | bust_file_cache }}" media="none" id="highlight_theme_dark" />
+    <script src="{{ site.url }}{{ '/assets/js/theme.js' | relative_url | bust_file_cache }}"></script>
+    <script src="{{ site.url }}{{ '/assets/js/dark_mode.js' | relative_url | bust_file_cache }}"></script>
     {% endif %}
 
 <script>
