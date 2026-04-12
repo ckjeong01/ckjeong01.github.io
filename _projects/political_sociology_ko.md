@@ -43,7 +43,7 @@ The course primarily focuses on theoretical and thematic issues, while also enga
   - Marx: Classical theories of the state  
 
     Readings  
-    - Orum (2001)  
+    - Orum (2000), *Introduction to Political Sociology* (4e).
     - Block (1977), <a href="https://jacobin.com/2020/04/ruling-class-capitalist-state-reform-theory" target="_blank">*The Ruling Class Does Not Rule*</a>  
 
 **Week 3**
