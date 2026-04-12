@@ -25,7 +25,7 @@ The course is structured into three main sections:
 - **Part I: Thinking about Theory**  
   Philosophy of social science, the meaning of theory, and theoretical toolkits.
 
-- **Part II: Ethnography**  
+- **Part II: Fieldwork**  
   Fieldwork methods including interviewing, participant observation, autoethnography, and digital ethnography.
 
 - **Part III: Historical Research**  
