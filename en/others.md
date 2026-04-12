@@ -6,7 +6,7 @@ alt_lang_url: /ko/others.html
 title: Other writings
 description: Op-eds, analyses, and policy papers
 nav: true
-nav_order: 4
+nav_order: 3
 ---
 <!-- _pages/publications.md -->
 
