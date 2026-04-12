@@ -1,5 +1,5 @@
 <header>
-  <nav id="navbar" class="navbar navbar-light navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %} bg-light">
+  <nav id="navbar" class="navbar {% if site.enable_darkmode %}navbar-theme{% else %}navbar-light{% endif %} navbar-expand-sm {% if site.navbar_fixed %}fixed-top{% else %}sticky-top{% endif %} bg-light">
       <div class="container d-flex align-items-center">
 
       <!-- 왼쪽: 타이틀 -->
@@ -27,7 +27,7 @@
           </div>
         </button>
       </div>
-      
+
         <!-- 메뉴 항목 -->
         <div class="collapse navbar-collapse" id="navbarNav">
           <ul class="navbar-nav ml-auto">
