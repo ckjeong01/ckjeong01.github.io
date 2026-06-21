@@ -23,7 +23,7 @@ The course is structured into three main sections:
 - **Part I: Thinking about Theory**  
   Philosophy of social science, the meaning of theory, and theoretical toolkits.
 
-- **Part II: Ethnography**  
+- **Part II: Fieldwork**  
   Fieldwork methods including interviewing, participant observation, autoethnography, and digital ethnography.
 
 - **Part III: Historical Research**  
@@ -36,7 +36,7 @@ The course also features **guest lectures by active researchers**, covering:
 - Writing and publishing  
 - Academic feedback and audience reception  
 
-### Core Texts
+### Textbooks for the section “Part II: Fieldwork”
 
 - Emerson, R. M., Fretz, R. I., & Shaw, L. L. (2011)  
   *Writing Ethnographic Fieldnotes* (2nd ed.)

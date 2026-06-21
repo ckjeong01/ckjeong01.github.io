@@ -53,8 +53,9 @@ Students will:
 **Week 5 – Patriarchy and Sexism I**
 - Modalities of patriarchy  
 - Benevolent vs. hostile sexism  
-  Reading
-  - Glick, P., and Fiske, S. 1997. “Hostile and benevolent sexism”
+  Readings
+  - Glick, P., and Fiske, S. 1997. "Hostile and benevolent sexism"
+  - Freud, S., 1922. "On the universal tendency to debasement on the sphere of love"
 
 **Week 6 – Patriarchy and Sexism II**
 - Women's responses to patriarchy  
@@ -76,8 +77,9 @@ Students will:
 
 **Week 10 – Gender in Modern Korean History**
   Readings
-  - Kim, V. 2024. “Historical origins of Kpop ‘girl groups’ and the homoerotic triangle”
-  - Suzy Kim. 2014. “Mothers and Maidens: Gendered Formation of Revolutionary Heroes in North Korea.”
+  - Kim, V. 2024. "Historical origins of Kpop ‘girl groups’ and the homoerotic triangle"
+  - Suzy Kim. 2014. "Mothers and Maidens: Gendered Formation of Revolutionary Heroes in North Korea."
+  - Moon, K. 1997. *Sex Among Allies: Military Prostitution in US-Korea Relations* (excerpts) 
 
 
 **Week 11 – Feminism under Neoliberalism (Nancy Fraser; Hester Eisenstein)**
@@ -90,9 +92,8 @@ Students will:
 - Primatology and gender  
   Readings
   - Hrdy, S. B. (1981). *The woman that never evolved*
-  - Smuts, B. B. (1995). "The evolutionary origins of patriarchy," Human Nature, 6(1), 1–32.
 
-**Week 13 – FFeminist Science & Epistemology II**
+**Week 13 – Feminist Science & Epistemology II**
 - Feminist standpoint theory  
 - Feminist empiricism  
   Readings
@@ -100,11 +101,9 @@ Students will:
   - Jeong, T. 2024. “Epistemic Diversity and Epistemic Advantage”
 
 
-**Week 14 – Feminism in Contemporary South Korea**
+**Week 14 – Colonial origins of South Korean gender conflict**
 - Practicing feminism under backlash  
-  Reading
-  - Jung, G., and Moon, M. 2024. “Quiet feminism in South Korea in the Era of everyday backlash.”
-
+  
 **Week 15 – Final Exam**
 
 ---
