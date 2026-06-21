@@ -1,4 +1,3 @@
-<!-- _includes/projects.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
   {% if project.redirect -%}
@@ -14,7 +13,13 @@
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
+          <h2 class="card-title">{{ project.title }}</h2>
+          
+          {% if project.semester %}
+            <p class="card-text" style="font-size: 0.85rem; color: #6c757d; margin-bottom: 0.5rem; font-weight: 500;">
+              <i class="fa-solid fa-calendar-check"></i> {{ project.semester }}
+            </p>
+          {% endif %}
           <p class="card-text">{{ project.description }}</p>
           <div class="row ml-1 mr-1 p-0">
             {%- if project.github -%}
