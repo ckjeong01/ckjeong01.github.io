@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Gender and Power
-description: 
+description:
 img: assets/img/gender_and_power_800x533.jpg
 importance: 1
 semester: "2025 Fall"   # 화면에 표시될 텍스트

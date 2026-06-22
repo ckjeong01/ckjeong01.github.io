@@ -19,3 +19,11 @@
 html.dark .navbar-toggler-icon .bar {
   background-color: white !important;
 }
+
+.card.hoverable {
+  height: 100%;
+}
+
+.card.hoverable .card-body {
+  min-height: 140px;
+}
