@@ -9,7 +9,7 @@
         {%- if project.img %}
         {%- include figure.html
           path=project.img
-          sizes = "250px"
+          sizes = "(max-width: 576px) 100vw, 250px"
           alt="project thumbnail" -%}
         {%- endif %}
         <div class="card-body">

@@ -27,3 +27,22 @@ html.dark .navbar-toggler-icon .bar {
 .card.hoverable .card-body {
   min-height: 140px;
 }
+
+@media (max-width: 576px) {
+  .grid-item {
+    width: 100% !important;
+    left: 0 !important;
+  }
+
+  .grid-item .card figure {
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+
+  .grid-item .card figure picture,
+  .grid-item .card figure img {
+    max-width: 100% !important;
+    width: 100% !important;
+    display: block !important;
+  }
+}

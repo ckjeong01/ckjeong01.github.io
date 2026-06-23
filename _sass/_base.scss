@@ -616,6 +616,10 @@ footer.sticky-bottom {
   .grid-item {
     width: 250px;
     margin-bottom: 10px;
+
+    @media (max-width: 576px) {
+      width: 100%;
+    }
   }
 
   h2.category {
