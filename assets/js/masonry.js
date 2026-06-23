@@ -1,1 +1,1 @@
-$(document).ready(function(){var r=$(".grid").masonry({gutter:10,horizontalOrder:!0,itemSelector:".grid-item"});r.imagesLoaded().progress(function(){r.masonry("layout")})});
+$(document).ready(function(){var i=window.innerWidth<=576,n=$(".grid").masonry({gutter:i?0:10,horizontalOrder:!0,itemSelector:".grid-item",columnWidth:i?window.innerWidth:".grid-sizer"});n.imagesLoaded().progress(function(){n.masonry("layout")}),$(window).resize(function(){var i=window.innerWidth<=576;n.masonry({gutter:i?0:10,columnWidth:i?window.innerWidth:".grid-sizer"}),n.masonry("layout")})});
